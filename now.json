@@ -1,0 +1,10 @@
+{
+  "name": "hello-world-now",
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.go",
+      "use": "@now/go"
+    }
+  ]
+}

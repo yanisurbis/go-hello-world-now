@@ -1,4 +1,4 @@
-package handler
+package go_hello_world_now
 
 import (
 	"fmt"
